@@ -1,6 +1,6 @@
 # ML4SCIHackathon2021-GravitationalLensing-Solution
 
-Code 1st place solution of the [ML4SCI Hackathon 2021](https://github.com/ML4SCI/ML4SCIHackathon) Gravitational Lensing Challenge.
+1st place solution of the [ML4SCI Hackathon 2021](https://github.com/ML4SCI/ML4SCIHackathon) Gravitational Lensing Challenge.
 
 ## Challenge - Multi-Class Image Classification
 
