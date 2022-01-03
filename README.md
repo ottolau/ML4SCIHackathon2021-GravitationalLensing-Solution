@@ -6,13 +6,13 @@ Code 1st place solution of the [ML4SCI Hackathon 2021](https://github.com/ML4SCI
 
 Identify dark matter halos based on strong lensing images with different substructure.
 
-![darkmatter_examples.png](images/darkmatter_examples.png)
+<img src="images/darkmatter_examples.png" width="400">
 
 ## Solution
 
 Trained a EfficientNetB3-based model with GeM Pooling and cosine annealed warm restart learning scheduler.
 
-![model.png](images/model.png)
+<img src="images/model.png" width="300">
 
 ## Results
 
